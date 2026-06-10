@@ -1,30 +1,66 @@
-# Muhammed Abees S
+# 👋 Hi, I'm Muhammed Abees S
 
-Computer Science Engineering student focused on full-stack web development, problem-solving, and building practical software projects.
+🎓 Computer Science Engineering Student
 
-I enjoy developing web applications that solve real-world problems while continuously improving my understanding of software engineering fundamentals. My experience comes from academic projects, self-learning, and hands-on development, where I focus on writing clean, maintainable code and building projects that demonstrate real technical skills.
+💻 Aspiring Full-Stack Developer
 
-## What I Work With
+🚀 Passionate about building web applications, solving problems, and continuously improving my development skills.
 
-* HTML, CSS, JavaScript
-* SQL & Database Fundamentals
+---
+
+## 👨‍💻 About Me
+
+* 🎓 B.Tech Computer Science Engineering Student
+* 🌱 Currently learning React.js, Node.js, and Full-Stack Development
+* 📚 Improving Data Structures & Algorithms
+* 🔨 Building real-world projects and strengthening software engineering fundamentals
+* 🎯 Seeking internship and software development opportunities
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+* Java
+* JavaScript
+* Python
+* SQL
+
+### Web Development
+
+* HTML5
+* CSS3
+* JavaScript
 * React.js (Learning)
-* Node.js & Express.js (Learning)
-* Git & GitHub
-* Data Structures & Algorithms
+* Node.js (Learning)
 
-## Featured Projects
+### Tools
+
+* Git
+* GitHub
+* VS Code
+* MySQL
+
+---
+
+## 🚀 Featured Projects
 
 ### 🎟️ Event Hub
 
-A web-based event management platform designed to help users create, manage, and explore events through a responsive and user-friendly interface.
+A web-based event management platform for creating, managing, and exploring events.
 
 ### 🌐 Portfolio Website
 
-A personal portfolio showcasing my projects, technical skills, certifications, and learning journey.
+Personal portfolio showcasing projects, skills, certifications, and achievements.
 
+### 📚 Responsive Web Design Projects
 
-## Certifications
+Projects completed as part of the freeCodeCamp Responsive Web Design Certification.
+
+---
+
+## 📜 Certifications
 
 * HackerRank SQL (Intermediate)
 * HackerRank Software Engineer Intern
@@ -32,18 +68,28 @@ A personal portfolio showcasing my projects, technical skills, certifications, a
 * Google Prompting Essentials (Coursera)
 * Responsive Web Design (freeCodeCamp)
 
-## Current Focus
+---
 
-* Strengthening React.js and Node.js skill
-* Improving Data Structures & Algorithms
-* Building full-stack applications
-* Enhancing GitHub project documentation
-* Preparing for software development internships and placements
+## 🎯 Current Focus
 
-## Connect With Me
+* Learning React.js
+* Learning Backend Development with Node.js
+* Building Full-Stack Applications
+* Improving Problem-Solving Skills
+* Preparing for Software Development Roles
 
-📧 Email: [muhammedabees62@gmail.com](mailto:muhammedabees62@gmail.com)
+---
 
-💼 LinkedIn: https://www.linkedin.com/in/muhammedabees/
+## 🤝 Connect With Me
+
+💼 LinkedIn: https://linkedin.com/in/muhammedabees/
+
+🌐 Portfolio: https://muhammedabees.vercel.app
 
 🐙 GitHub: https://github.com/Abeess
+
+📧 Email: muhammedabees62@gmail.com
+
+---
+
+⭐ "Always learning, building, and improving."
